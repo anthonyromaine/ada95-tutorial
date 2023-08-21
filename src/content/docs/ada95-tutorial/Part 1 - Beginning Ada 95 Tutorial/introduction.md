@@ -1,5 +1,7 @@
 ---
 title: Introduction
+sidebar:
+    order: 1
 ---
 
 Welcome to the world of Ada 95, a relatively new programming language. Even though Ada has been mandated by the government for certain projects in the past, the mandate has been lifted and Ada is a powerful enough language that it will be successful in the marketplace based on its own merits.
