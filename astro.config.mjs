@@ -8,6 +8,10 @@ export default defineConfig({
 			title: 'Docs',
 			sidebar: [
 				{
+					label: 'Ada 95: The Craft of Object-Oriented Programming',
+					autogenerate: { directory: 'Ada 95: The Craft of Object-Oriented Programming'}
+				},
+				{
 					label: 'Ada 95 Tutorial',
 					autogenerate: { directory: 'ada95-tutorial'}
 				},
